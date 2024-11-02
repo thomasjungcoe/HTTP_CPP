@@ -1,4 +1,5 @@
 What is the HTTP server?
+------------------------
 
     HTTP stands for Hypertext Transfer Protocol.
     It is a standard for sending and receiving data, be it HTML, JSON, or just plain text over the internet.
